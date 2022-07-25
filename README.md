@@ -1,3 +1,24 @@
+REINGOLD PROMPTS:
+
+If you were to continue working on this beyond the 1-hour limit, what would you do next?
+
+Step 1) I would make sure that all data is displayed correctly and then implement sorting. 
+Right now, the app iterates through the json file, but does not display it in an attractive, nested table format. 
+
+Step 2) Then I would implement the styled component StyledTable which changes colors on hover for every odd row. 
+StyledComponent already exists in App.tsx, but currently does not work. 
+
+It probably doesn't work because Step 1 does not work yet. 
+
+Unfortuntaely, iterating through the nested json file took most of the hour.
+To better demonstrate my CSS abilities, please see my personal portfolio. 
+
+https://portfolio-lya5uyvzp-jbeanz.vercel.app/
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
